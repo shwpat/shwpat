@@ -57,7 +57,7 @@ Designed and developed a multi-agent customer support system using LangChain and
 
 **Tech Stack:** Python • LangChain • DeepSeek • Pandas • AI Agents • Prompt Engineering
 
-🔗 **Repository:** https://github.com/your-username/Northstar_Triage_Multi_Agent
+🔗 **Repository:** https://github.com/shwpat/Northstar_Triage_Multi_Agent
 
 </td>
 
@@ -70,7 +70,7 @@ An AI-powered tutoring assistant built with the DeepSeek API that demonstrates p
 
 **Tech Stack:** Python • DeepSeek API • OpenAI SDK • JSON • Prompt Engineering
 
-🔗 **Repository:** https://github.com/your-username/study-buddy
+🔗 **Repository:** https://github.com/shwpat/study-buddy
 
 </td>
 
@@ -81,7 +81,7 @@ A Python-based inventory management application for tracking products, monitorin
 
 **Tech Stack:** Python • SQLAlchemy • SQLite • Pandas • Streamlit
 
-🔗 **Repository:** https://github.com/your-username/smart-inventory-management
+🔗 **Repository:** https://github.com/shwpat/smart-inventory-management
 
 </td>
 </tr>
