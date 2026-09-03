@@ -52,7 +52,7 @@ I enjoy solving real-world business problems through AI, automation, and data-dr
 <tr>
 <td width="50%">
 
-### 🤖 Northstar Triage Multi-Agent System
+### 🤖 Northstar Triage Multi-Agent System (A_TEPP_2)
 Designed and developed a multi-agent customer support system using LangChain and DeepSeek. The application uses an Orchestrator, Triage Agent, Policy Agent, and Reviewer Agent to automate ticket classification, policy retrieval, response generation, and human approval for high-risk cases.
 
 **Tech Stack:** Python • LangChain • DeepSeek • Pandas • AI Agents • Prompt Engineering
@@ -63,18 +63,7 @@ Designed and developed a multi-agent customer support system using LangChain and
 
 <td width="50%">
 
-### 📚 Customer Service RAG Chatbot
-Built a Retrieval-Augmented Generation (RAG) chatbot that answers customer questions by retrieving relevant company documents from a ChromaDB vector database before generating responses with DeepSeek. Includes a Streamlit web interface.
 
-**Tech Stack:** Python • LangChain • ChromaDB • Streamlit • DeepSeek • RAG
-
-🔗 **Repository:** https://github.com/your-username/customer-service-rag-chatbot
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
 
 ### 🎓 Study Buddy Chatbot
 An AI-powered tutoring assistant built with the DeepSeek API that demonstrates prompt engineering, system prompts, temperature tuning, structured JSON responses, and robust error handling through a simple command-line interface.
@@ -87,7 +76,7 @@ An AI-powered tutoring assistant built with the DeepSeek API that demonstrates p
 
 <td width="50%">
 
-### 📦 Smart Inventory Management System
+### 📦 Smart Inventory Management System (TEPP_1)
 A Python-based inventory management application for tracking products, monitoring stock levels, and organizing inventory data efficiently using a database-backed workflow.
 
 **Tech Stack:** Python • SQLAlchemy • SQLite • Pandas • Streamlit
