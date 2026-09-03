@@ -57,7 +57,7 @@ Designed and developed a multi-agent customer support system using LangChain and
 
 **Tech Stack:** Python • LangChain • DeepSeek • Pandas • AI Agents • Prompt Engineering
 
-🔗 **Repository:** https://github.com/shwpat/Northstar_Triage_Multi_Agent
+🔗 **Repository:** https://github.com/shwpat/
 
 </td>
 
