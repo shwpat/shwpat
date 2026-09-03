@@ -46,57 +46,66 @@ I enjoy solving real-world business problems through AI, automation, and data-dr
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🤖 Multi-Agent Customer Support System
+<table>
+<tr>
+<td width="50%">
 
-✔ Orchestrator Architecture
+### 🤖 Northstar Triage Multi-Agent System
+Designed and developed a multi-agent customer support system using LangChain and DeepSeek. The application uses an Orchestrator, Triage Agent, Policy Agent, and Reviewer Agent to automate ticket classification, policy retrieval, response generation, and human approval for high-risk cases.
 
-✔ Triage Agent
+**Tech Stack:** Python • LangChain • DeepSeek • Pandas • AI Agents • Prompt Engineering
 
-✔ Policy Agent
+🔗 **Repository:** https://github.com/your-username/Northstar_Triage_Multi_Agent
 
-✔ Reviewer Agent
+</td>
 
-✔ Shared State
+<td width="50%">
 
-✔ Approval Gate
+### 📚 Customer Service RAG Chatbot
+Built a Retrieval-Augmented Generation (RAG) chatbot that answers customer questions by retrieving relevant company documents from a ChromaDB vector database before generating responses with DeepSeek. Includes a Streamlit web interface.
 
-✔ Tool Logging
+**Tech Stack:** Python • LangChain • ChromaDB • Streamlit • DeepSeek • RAG
+
+🔗 **Repository:** https://github.com/your-username/customer-service-rag-chatbot
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎓 Study Buddy Chatbot
+An AI-powered tutoring assistant built with the DeepSeek API that demonstrates prompt engineering, system prompts, temperature tuning, structured JSON responses, and robust error handling through a simple command-line interface.
+
+**Tech Stack:** Python • DeepSeek API • OpenAI SDK • JSON • Prompt Engineering
+
+🔗 **Repository:** https://github.com/your-username/study-buddy
+
+</td>
+
+<td width="50%">
+
+### 📦 Smart Inventory Management System
+A Python-based inventory management application for tracking products, monitoring stock levels, and organizing inventory data efficiently using a database-backed workflow.
+
+**Tech Stack:** Python • SQLAlchemy • SQLite • Pandas • Streamlit
+
+🔗 **Repository:** https://github.com/your-username/smart-inventory-management
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📚 Generative AI RAG Application
+### 🌟 More Projects
 
-- LangChain
-- Vector Database
-- Prompt Engineering
-- Document Retrieval
-- LLM Integration
+- 🛠️ **Customer Support Triage Agent** – AI-powered customer support agent using LangChain tools, DeepSeek, CSV data sources, tool logging, and approval gates to automate ticket classification and policy-based responses.
 
----
 
-## 🏆 Career Share
 
-Career development platform created during the Bloomberg × TKH Hackathon.
-
-Features
-
-- Interactive Dashboard
-- Heatmaps
-- Data Visualization
-- Career Insights
-
----
-
-## 📊 Employee Attrition Prediction
-
-- Exploratory Data Analysis
-- Decision Tree
-- Random Forest
-- Machine Learning
-
----
 
 # 💻 Tech Stack
 
